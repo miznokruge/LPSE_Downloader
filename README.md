@@ -10,11 +10,10 @@
 
 ### Cara Pakai:
 ```
-1. python "lpse downloader.py" (single lpse) dan python "lpse batch.py" atau jalankan aplikasi executable
+1. python "lpse downloader.py" atau python "lpse batch.py" atau jalankan aplikasi executable
 2. Masukkan link lpse dengan benar. Contoh: http://lpse.bireuenkab.go.id atau https://lpse.tebingtinggikota.go.id
 3. Lalu pilih tahun
-4. Hasil download berada di folder LPSE Downloader/download
+4. Hasil scrapping berada di folder LPSE Downloader/download
 ```
 
-### Link Executable file: 
-<a href="https://bit.ly/LPSE_donloder">LPSE Downloader</a>
+### Link Executable file: <a href="https://bit.ly/LPSE_donloder">LPSE Downloader</a>
