@@ -1,7 +1,7 @@
 ## LPSE Downloader v.1.86.4
 <a href="https://ibb.co/WBNs2k4"><img src="https://i.ibb.co/DwPLR9H/lpse.png" alt="LPSE Downloader"></a>
 ## LPSE Batch Downloader v.1.86.0
-<a href="https://ibb.co/PC61pQ5"><img src="https://i.ibb.co/h8m25fK/lpse-batch.png" alt="LPSE Batch Downloader" border="0"></a>
+<a href="https://ibb.co/PC61pQ5"><img src="https://i.ibb.co/h8m25fK/lpse-batch.png" alt="LPSE Batch Downloader"></a>
 
 ```
 #Spesifikasi: Google Chrome minimal versi 86
@@ -16,8 +16,5 @@
 4. Hasil download berada di folder LPSE Downloader/download
 ```
 
-### Link Executable file : bit.ly/LPSE_donloder
-![arjun](https://image.ibb.co/effjh0/Screenshot-2018-11-19-14-16-51.png)
-
-
-### Link Executable file : bit.ly/LPSE_donloder ![arjun](https://image.ibb.co/effjh0/Screenshot-2018-11-19-14-16-51.png)
+### Link Executable file: 
+<a href="https://bit.ly/LPSE_donloder">LPSE Downloader</a>
