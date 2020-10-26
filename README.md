@@ -1,6 +1,5 @@
 ## LPSE Downloader v.1.86.4
-<a href="https://ibb.co/26xvdH2"><img src="https://i.ibb.co/qnKNpVG/ezgif-com-gif-maker.gif" alt="LPSE Downloader"></a>
-![Farmers Market Finder Demo](https://i.ibb.co/qnKNpVG/ezgif-com-gif-maker.gif)
+<a href="https://ibb.co/cxZvcMq"><img src="https://i.ibb.co/N7J36QR/lpse04.png" alt="LPSE Downloader"></a>
 ## LPSE Batch Downloader v.1.86.0
 <a href="https://ibb.co/5jWyk42"><img src="https://i.ibb.co/c8cHw3x/lpse.png" alt="LPSE Batch Downloader"></a>
 
