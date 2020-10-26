@@ -1,7 +1,7 @@
 ## LPSE Downloader v.1.86.4
 <a href="https://ibb.co/WBNs2k4"><img src="https://i.ibb.co/DwPLR9H/lpse.png" alt="LPSE Downloader"></a>
 ## LPSE Batch Downloader v.1.86.0
-<a href="https://ibb.co/PC61pQ5"><img src="https://i.ibb.co/h8m25fK/lpse-batch.png" alt="LPSE Batch Downloader"></a>
+<a href="https://ibb.co/5jWyk42"><img src="https://i.ibb.co/c8cHw3x/lpse.png" alt="LPSE Batch Downloader"></a>
 
 ```
 #Spesifikasi: Google Chrome minimal versi 86
